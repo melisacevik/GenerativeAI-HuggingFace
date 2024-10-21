@@ -2,7 +2,7 @@
 ## 2. Çalışma
 
 ### 🌏 [Dene](https://huggingface.co/spaces/celisamevik/ConvertImagetoBlackWhite)
-### 🙌🏻[Project Link](https://github.com/melisacevik/Generative-AI-Projects/blob/main/app.py)
+### 🙌🏻 [Project Link](https://github.com/melisacevik/Generative-AI-Projects/blob/main/app.py)
 ### Kahve Fincanı Falı Yorumlama Uygulaması
 
 Bu proje, kullanıcıların kahve fincanı fotoğraflarını yükleyerek AI destekli kahve falı yorumu almasını sağlar. OpenCV ile görsel işleme yaparak kahve fincanında bulunan şekilleri analiz eder ve Google Generative AI API'sini kullanarak bu şekillere dayalı moral verici fal yorumları üretir.

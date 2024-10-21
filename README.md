@@ -1,5 +1,5 @@
 # GenerativeAI Projects
-### 2. Proje: Kahve Fincanı Falı Yorumlama Uygulaması
+### Project2: Kahve Fincanı Falı Yorumlama Uygulaması
 
 #### 🌏 [Dene](https://huggingface.co/spaces/celisamevik/KahveFali-CoffeeHoroscope)
 #### 🙌🏻 [Project Link](https://github.com/melisacevik/Generative-AI-Projects/blob/main/app.py)
@@ -29,5 +29,29 @@ Bu projeyi çalıştırmak için aşağıdaki bağımlılıklar gereklidir:
 ![Ekran Resmi 2024-10-17 11 49 27](https://github.com/user-attachments/assets/da6b057a-7ef0-4664-b499-6950e4af480a)
 
 
+##
+##
+##
+
+### Project1: Back to Black
+
+#### 🌏 [Dene](https://huggingface.co/spaces/celisamevik/ConvertImagetoBlackWhite)
+#### 🙌🏻 [Project Link](https://github.com/melisacevik/GenerativeAI-HuggingFace/blob/master/Project1-BackToBlack/app.py)
+##
+
+Bu proje, OpenCV ve Gradio kullanarak görseller üzerinde siyah-beyaz dönüştürme işlemleri yapmayı amaçlar. Projede OpenCV ile görüntü işlemleri yapılmakta, Gradio ile de web tabanlı bir arayüz oluşturularak kullanıcının bir görseli yükleyip siyah-beyaza dönüştürebileceği bir platform sunulmaktadır.
+
+## Proje İçeriği
+
+1. **OpenCV ile Görüntü İşleme**:
+   - Görsel dosyalarının OpenCV ile okunması ve üzerinde işlem yapılması.
+   - Görselin boyut ve kanal bilgilerine erişim.
+   - Görsellerin renkli veya siyah-beyaz (grayscale) olarak okunması.
+   - Görsel üzerinde çeşitli görüntü işleme operasyonları.
+
+2. **Gradio ile Web Arayüzü**:
+   - Gradio kütüphanesi kullanarak basit ve kullanıcı dostu bir web tabanlı arayüz oluşturulmuştur.
+   - Kullanıcıdan görsel yükleme ve bu görseli siyah-beyaza dönüştürme işlemi yapılmıştır.
+   - Dönüştürülen görselin kullanıcıya geri döndürülmesi sağlanmıştır.
 
 

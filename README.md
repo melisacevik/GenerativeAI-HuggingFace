@@ -35,8 +35,12 @@ Bu projeyi çalıştırmak için aşağıdaki bağımlılıklar gereklidir:
 
 ### Project1: Back to Black
 
+![Ekran Resmi 2024-10-21 13 12 33](https://github.com/user-attachments/assets/6ddd5069-316e-4917-8b5d-994ed71322ca)
+
 #### 🌏 [Dene](https://huggingface.co/spaces/celisamevik/ConvertImagetoBlackWhite)
 #### 🙌🏻 [Project Link](https://github.com/melisacevik/GenerativeAI-HuggingFace/blob/master/Project1-BackToBlack/app.py)
+
+
 ##
 
 Bu proje, OpenCV ve Gradio kullanarak görseller üzerinde siyah-beyaz dönüştürme işlemleri yapmayı amaçlar. Projede OpenCV ile görüntü işlemleri yapılmakta, Gradio ile de web tabanlı bir arayüz oluşturularak kullanıcının bir görseli yükleyip siyah-beyaza dönüştürebileceği bir platform sunulmaktadır.
@@ -53,5 +57,6 @@ Bu proje, OpenCV ve Gradio kullanarak görseller üzerinde siyah-beyaz dönüşt
    - Gradio kütüphanesi kullanarak basit ve kullanıcı dostu bir web tabanlı arayüz oluşturulmuştur.
    - Kullanıcıdan görsel yükleme ve bu görseli siyah-beyaza dönüştürme işlemi yapılmıştır.
    - Dönüştürülen görselin kullanıcıya geri döndürülmesi sağlanmıştır.
+
 
 

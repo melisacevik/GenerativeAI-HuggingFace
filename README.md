@@ -1,9 +1,9 @@
 # GenerativeAI Projects
-## 2.
+### 2. Proje: Kahve Fincanı Falı Yorumlama Uygulaması
 
-### 🌏 [Dene](https://huggingface.co/spaces/celisamevik/KahveFali-CoffeeHoroscope)
-### 🙌🏻 [Project Link](https://github.com/melisacevik/Generative-AI-Projects/blob/main/app.py)
-### Kahve Fincanı Falı Yorumlama Uygulaması
+#### 🌏 [Dene](https://huggingface.co/spaces/celisamevik/KahveFali-CoffeeHoroscope)
+#### 🙌🏻 [Project Link](https://github.com/melisacevik/Generative-AI-Projects/blob/main/app.py)
+##
 
 Bu proje, kullanıcıların kahve fincanı fotoğraflarını yükleyerek AI destekli kahve falı yorumu almasını sağlar. OpenCV ile görsel işleme yaparak kahve fincanında bulunan şekilleri analiz eder ve Google Generative AI API'sini kullanarak bu şekillere dayalı moral verici fal yorumları üretir.
 
@@ -13,7 +13,7 @@ Bu proje, kullanıcıların kahve fincanı fotoğraflarını yükleyerek AI dest
 - **Görsel İşleme**: OpenCV kullanılarak kahve fincanındaki şekiller tespit edilir.
 - **Yapay Zeka Destekli Yorum**: Google Generative AI API kullanılarak fincanda tespit edilen şekillere göre bir kahve falı yorumu yapılır.
   
-## Gereksinimler
+#### Gereksinimler
 
 Bu projeyi çalıştırmak için aşağıdaki bağımlılıklar gereklidir:
 

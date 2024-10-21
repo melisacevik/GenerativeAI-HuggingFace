@@ -1,7 +1,7 @@
 # GenerativeAI Projeleri
 ## 2. Çalışma
 
-### 🌏 [Dene](https://huggingface.co/spaces/celisamevik/ConvertImagetoBlackWhite)
+### 🌏 [Dene](https://huggingface.co/spaces/celisamevik/KahveFali-CoffeeHoroscope)
 ### 🙌🏻 [Project Link](https://github.com/melisacevik/Generative-AI-Projects/blob/main/app.py)
 ### Kahve Fincanı Falı Yorumlama Uygulaması
 
